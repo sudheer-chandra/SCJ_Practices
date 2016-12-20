@@ -1,7 +1,7 @@
 import shodan
 
 # SHODAN API KEY FROM SHODAN ACCOUNT
-API_KEY = "anKC3wDk2EMsOqyZ2ZkzFK27lndHYg5q"
+API_KEY = "ByaWJ1VL3o9oEOuLgTqUWnZz9bBoqdBK"
 
 # CREATING AN OBJECT OF THE CLASS shodan
 api = shodan.Shodan(API_KEY)
